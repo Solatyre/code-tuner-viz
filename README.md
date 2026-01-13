@@ -1,3 +1,22 @@
+#RUNDOWN
+- **Frontend:** React + Vite + TypeScript + Recharts
+- **Backend:** Node.js + Express + TypeScript
+- **Database:** PostgreSQL (Poseidon)
+- **ORM:** Prisma
+- **Charts:** Recharts
+
+## Features
+- **Overview:** High-level project metrics
+- **Histogram:** Complexity distribution (fixed buckets)
+- **Class Sizes:** LOC per class + raw table
+- **Trend:** Complexity over time
+- **Benchmarks:** Compare repositories
+
+
+----------------------------------------------------------------------------------
+
+
+
 Terminal 1
 cd code-tuner-viz-frontend
 npm install
